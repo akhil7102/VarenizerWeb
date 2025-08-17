@@ -33,6 +33,6 @@ export default defineConfig({
     minify: 'esbuild'
   },
   // Configure for static deployment
-  base: '/a/',
+  base: '/VarenizerWeb/',
   assetsInclude: ['**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.gif', '**/*.svg']
 })
