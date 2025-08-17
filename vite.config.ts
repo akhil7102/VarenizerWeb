@@ -33,6 +33,6 @@ export default defineConfig({
     minify: 'esbuild'
   },
   // Configure for static deployment
-  base: './',
+  base: '/a/',
   assetsInclude: ['**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.gif', '**/*.svg']
 })
